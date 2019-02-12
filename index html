@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aysun Gorduk</title>
+    <link rel=""cssaysun" type="cssaysun" href="cssaysun">
+</head>
+<body>
+<header>
+    <h1>Aysun Gorduk</h1>
+    <img src="img/OHKD4130.jpg" width="150" alt="Aysun Gorduk"/>
+    <nav>
+        <ul>
+            <li><a href="#summary">Summary</a></li>
+            <li><a href="#work">Work</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#language">Language</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#social"><Social</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <article>
+        <section id="summary">
+            <h2>
+                Summary
+            </h2>
+            <p>
+                A <b>solicitor</b> with 9+ years experience in <i>variety of law department</i> who loves reading literature and philosophy.
+            </p>
+        </section>
+        <section id="work">
+            <h2>Work</h2>
+            <ul>
+                <li>
+                    <strong >Stone Robin Survey Ltd; Company</strong><br>
+                    <a href="brianlhagan@gmail.com" itemprop="url">brianlhagan</a><br>
+                    <small>Project Management</small>
+                    <br>
+                    June 2018 - January 2019<br>
+                </li>
+
+                <li>
+                    <strong >Gima UK Ltd</strong><br>
+                    <a href="https://www.gimauk.com/" itemprop="url">www.gimauk.com</a><br>
+                    <small>Sales Assistant</small>
+                    <br>
+                    February 2016 - June 2018<br>
+                </li>
+                <li>
+                    <strong >Ersan and Co Solicitor</strong><br>
+                    <a href="http://www.ersans.co.uk/" itemprop="url">www.ersans.co.uk</a><br>
+                    <small>Paralegal</small>
+                    <br>
+                    April 2017 - October 2018<br>
+                </li>
+            </ul>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <strong >Istanbul University</strong><br>
+                    <a href="http://www.istanbul.edu.tr/tr/" itemprop="url">www.istanbul.edu.tr</a><br>
+                    <small>Faculty of Law/small>
+                    <br>
+                    2004 - 2009<br>
+                </li>
+                    
+                 <li>
+                     <strong>University of Wales</strong><br>
+                     <a href="https://www.wales.ac.uk/en/Home.aspx" itemprop="url">www.wales.ac.uk</a><br>
+                     <small>Master Business Administration and Entrepreneurship/small>
+                     <br>
+                      2017 January - 2018 September<br>
+                         </li>
+                     <li>
+            </ul>
+        </section>
+        <section id="languages">
+            <h2>Languages</h2>
+            <ul>
+                <li>
+                    Turkish - Native
+                </li>
+                <li>
+                    Zazaki - Native
+                </li>
+                <li>
+                    English - Fluent
+                </li>
+                <li>
+                    Kurdish - Intermediate
+                </li>
+                <li>
+                    French - Beginner
+                </li>
+            </ul>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ol>
+                <li>
+                    Microsoft Offices 
+                </li>
+                <li>
+                    Outlook 
+                </li>
+                <li>
+                    DPS 
+                </li>
+            </ol>
+        </section>
+    </article>
+</main>
+<footer>
+    <h2>Social</h2>
+    <nav>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/aysun-gördük-63a6a250/">Linkedin</a></li>
+        </ul>
+    </nav>
+    <section id="contact">
+        <h2>Contact</h2>
+        <ul>
+            <li>
+                <a href="mailto:ay-sune@hotmail.com">E-mail</a>
+            </li>
+        </ul>
+    </section>
+</footer>
+</body>
+</html>
